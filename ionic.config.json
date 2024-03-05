@@ -1,0 +1,7 @@
+{
+  "name": "puntblauapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
